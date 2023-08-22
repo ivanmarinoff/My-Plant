@@ -8,24 +8,29 @@ This is a `Plant App` course project built with  **Django**.
 
 ## This is a App `Home page`
 
-![home]()
+![home_page](https://github.com/ivanmarinoff/My-Plant/assets/107050101/d0c85bae-096c-4882-8cb2-d0b797e28a73)
+
 <br />
 
 ## This is a `Profile details` page
-![profile]()
+![profile_details](https://github.com/ivanmarinoff/My-Plant/assets/107050101/43094ed9-eec1-4110-be4f-5f383bf131c2)
+
 <br />
 
 ## This is a `Create Plant` view
-![create_event]()
+![Create_plant](https://github.com/ivanmarinoff/My-Plant/assets/107050101/17b0ec44-984b-448d-bfc4-4916286c8edb)
+
 <br />
 
 ## This is a `Catalogue` page
 
-![current_event]()
+![catalogue](https://github.com/ivanmarinoff/My-Plant/assets/107050101/0b356ac7-5a9d-435a-90cd-e5dfab714768)
+
 <br />
 
 ## This is a `Django Admin` page
-![admin](file:///static/pictures/django_admin.png)
+![admin](https://github.com/ivanmarinoff/My-Plant/assets/107050101/5f93707a-fe48-4e84-a5df-0bac2c2ac0a2)
+
 
 <br />
 
